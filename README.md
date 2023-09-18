@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamza-mughal1
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
