@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hamzaxd1123@gmail.com**
 
-- ⚡ Fun fact **I am an introvert**
+- ⚡ Fun fact **I am an introvert with _deep voice_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
