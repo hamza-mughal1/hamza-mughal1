@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate Machine learning engineer</h3>
 
-- 🔭 I’m currently working on **backend with flask**
+- 🔭 I’m currently working on **backend with FAST-API**
 
-- 🌱 I’m currently learning **flask, scikit-learn**
+- 🌱 I’m currently learning **FAST-API, Natural language processors**
 
 - 👯 I’m looking to collaborate on **frontend**
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamza-mughal1](https://github.com/hamza-mughal1)
 
-- 💬 Ask me about **python, flask, ML, web-scraping**
+- 💬 Ask me about **python, FAST-API, flask, backend, ML, web-scraping**
 
 - 📫 How to reach me **hamzaxd1123@gmail.com**
 
-- ⚡ Fun fact **I am an introvert with _deep voice_**
+- ⚡ Fun fact **I can say googoo gaga**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
