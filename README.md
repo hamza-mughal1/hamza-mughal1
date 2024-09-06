@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **frontend**
 
-- 🤝 I’m looking for help with **frontend developer**
+- 🤝 I’m looking for help with **frontend developer** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/hamza-mughal1](https://github.com/hamza-mughal1)
 
