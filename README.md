@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **backend with FAST-API**
 
-- 🌱 I’m currently learning **FAST-API, Natural language processors** 
+- 🌱 I’m currently learning **Transformers, Natural language processors** 
 
 - 👯 I’m looking to collaborate on **frontend**
 
