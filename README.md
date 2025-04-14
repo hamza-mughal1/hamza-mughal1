@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hamzaxd1123@gmail.com**
 
-- ⚡ Fun fact **I can say googoo gaga**
+- ⚡ Fun fact **I am a chess player with 1300 elo**
 
 
 <h3 align="left">Connect with me:</h3>
