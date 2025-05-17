@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hamzaxd1123@gmail.com**
 
-- ⚡ Fun fact **I am a chess player with 1300 elo**
+- ⚡ Fun fact **I once got private invitation of Google's foobar challenge**
 
 
 <h3 align="left">Connect with me:</h3>
