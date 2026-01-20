@@ -1,31 +1,76 @@
-<h1 align="center">Hi 👋, I'm Hamza</h1>
-<h3 align="center">A passionate Machine learning engineer</h3>
-
-- 🔭 I’m currently working on **backend with FAST-API**
-
-- 🌱 I’m currently learning **Transformers, Natural language processors** 
-
-- 👯 I’m looking to collaborate on **frontend**
-
-- 🤝 I’m looking for help with **frontend developer** 
-
-- 👨‍💻 All of my projects are available at [https://github.com/hamza-mughal1](https://github.com/hamza-mughal1)
-
-- 💬 Ask me about **python, FAST-API, flask, backend, ML, web-scraping**
-
-- 📫 How to reach me **hamzaxd1123@gmail.com**
-
-- ⚡ Fun fact **I once got private invitation of Google's foobar challenge**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/-hamza-mughal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-mughal-431258293" height="30" width="40" /></a>
+<h1 align="center">Hamza Mughal</h1>
+<p align="center">
+Backend & AI Systems Engineer · FastAPI · Agentic AI · Scalable Systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+Building production-grade AI backends, real-time systems, and autonomous agents.
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-mughal1&show_icons=true&locale=en&layout=compact" alt="hamza-mughal1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-mughal1&" alt="hamza-mughal1" /></p>
+### About
+
+I’m a Backend & AI Systems Engineer with 4+ years of experience designing and shipping scalable, low-latency systems in Python.
+
+My work sits at the intersection of **FastAPI**, **async architectures**, and **AI-driven platforms**. I’ve built real-world systems ranging from real-time voice AI agents to multi-agent automation backends, vector-search-powered RAG pipelines, and ERP-integrated AI services.
+
+I care about clean architecture, observability, and systems that survive real traffic, not demos.
+
+---
+
+### What I work on
+
+- Production-grade **FastAPI** backends (async-first, testable, scalable)
+- **AI agent platforms** with multi-agent orchestration and RAG
+- Real-time **voice AI systems** (Twilio, Plivo, low-latency pipelines)
+- Vector search, embeddings, long-context retrieval, and summarization
+- Backend-heavy automation platforms (workflow engines, schedulers)
+- Infrastructure-aware development (Docker, CI/CD, monitoring)
+
+---
+
+### Selected Projects & Experience Highlights
+
+- Built a **real-time voice AI platform** handling 50+ concurrent calls at ~1500ms latency using multi-LLM RAG, streaming pipelines, VAD, and session reuse.
+- Architected **multi-agent AI systems** for document processing, service ticketing, ERP automation, and after-hours voice support with 80–90% operational latency reduction.
+- Designed and built a **no-code workflow orchestration engine** from scratch with distributed async executors, Redis pub/sub telemetry, sandboxed expression evaluation, and extensible node factories.
+- Refactored backend systems with RBAC, caching, and rate limiting, cutting API latency by up to 45%.
+- Integrated AI agents into ERP systems (Odoo) for natural-language querying and actionable insights.
+
+---
+
+### Tech Stack
+
+**Languages & Frameworks**  
+Python · FastAPI · Pydantic · AsyncIO · Pytest  
+
+**AI / ML**  
+PyTorch · TensorFlow · LangChain · RAG · Vector Databases · Multi-agent Systems  
+
+**Databases & Infra**  
+PostgreSQL · MySQL · MongoDB · Redis · Docker · AWS · GCP · CI/CD · Grafana  
+
+**Real-time & Integrations**  
+Twilio · Plivo · MQTT · WebSockets · Streaming APIs  
+
+---
+
+### Philosophy
+
+I don’t chase buzzwords.  
+I build systems that run, scale, and stay debuggable six months later.
+
+---
+
+### Contact
+
+- Email: **dev.hamzamughal@gmail.com**
+- LinkedIn: [linkedin.com/in/-hamza-mughal](https://www.linkedin.com/in/-hamza-mughal)
+- GitHub: [github.com/hamza-mughal1](https://github.com/hamza-mughal1)
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-mughal1&layout=compact" />
+</p>
